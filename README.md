@@ -46,5 +46,7 @@ PosiTrack is a practical solution for promoting healthy seating habits through c
 ---
 
 For more details and the complete code, please visit the [PosiTrack GitHub repository](https://github.com/ErsinAgirman/PosiTrack).
-![img2](https://github.com/ErsinAgirman/PosiTrack/assets/117252660/686a047d-483f-4880-b1ba-d1746cef7510)
 
+
+![img2](https://github.com/ErsinAgirman/PosiTrack/assets/117252660/686a047d-483f-4880-b1ba-d1746cef7510)
+![img3](https://github.com/ErsinAgirman/PosiTrack/assets/117252660/bd0a25db-9e25-4008-8dbc-1e74ff2495b8)
